@@ -17,5 +17,5 @@
     * [基于WebView的轻量级浏览器库](https://github.com/Justson/AgentWeb)
     
 * **`Android进阶版资料`** <br>
-    * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
+    * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
     * [极简Android源码编译环境搭建工具](https://github.com/tiann/docker-aosp)
