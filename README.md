@@ -15,3 +15,7 @@
     * [万能Adapter：数据绑定一步完成](https://github.com/hongyangAndroid/baseAdapter)
     * [Android4.4+实现沉浸式状态栏/导航栏](https://github.com/gyf-dev/ImmersionBar)
     * [基于WebView的轻量级浏览器库](https://github.com/Justson/AgentWeb)
+    
+* **`Android进阶版资料`** <br>
+    * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
+    * [极简Android源码编译环境搭建工具](https://github.com/tiann/docker-aosp)
