@@ -17,6 +17,7 @@
     * [基于WebView的轻量级浏览器库](https://github.com/Justson/AgentWeb)
     * [初步使用CoordinatorLayout实现联动滑动效果](http://www.jianshu.com/p/97206f5973c5)
     * [关于Android桌面图标实现未读角标提示](http://www.jianshu.com/p/199a9238015f)
+    * [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
     
 * **`Android进阶版资料`** <br>
     * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
