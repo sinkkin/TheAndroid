@@ -1,5 +1,5 @@
 # TheAndroid
-## 以下内容为本人在网络上搜集而来的，如您是作者并对此感到反感请联系我[QQ](http://wpa.qq.com/msgrd?v=3&uin=917960559&site=qq&menu=yes)进行删除 
+### 以下内容为本人在网络上搜集而来的，如您是作者并对此感到反感请联系我[QQ](http://wpa.qq.com/msgrd?v=3&uin=917960559&site=qq&menu=yes)进行删除 
 
 * **`开始Android的第一步`** <br>
     * [Android Studio下载安装地址（Windows/Mac）](http://www.android-studio.org/index.php/download/hisversion)<br>
