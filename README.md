@@ -6,7 +6,7 @@
     * [在Mac上搭建开发环境](http://www.jianshu.com/p/bf77cb5ce70b)<br>
     * [各版本Gradle下载地址](http://services.gradle.org/distributions/)-常用于解决AS一直处于Building状态<br>
 
-* **`第三方常用小组件`** <br>
+* **`Android基础版`** <br>
     * [常用的二维码扫码和生成（基于ZXing核心库）](https://github.com/mylhyl/Android-Zxing)<br>
     * [仿iOS的PickerView控件，有时间选择器和多级联动选择器](https://github.com/Bigkoo/Android-PickerView)<br>
     * [很好用的Android轮播图控件](https://github.com/youth5201314/banner)<br>
@@ -19,6 +19,6 @@
     * [关于Android桌面图标实现未读角标提示](http://www.jianshu.com/p/199a9238015f)
     * [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
     
-* **`Android进阶版资料`** <br>
+* **`Android进阶版`** <br>
     * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
     * [极简Android源码编译环境搭建工具](https://github.com/tiann/docker-aosp)
