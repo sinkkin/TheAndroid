@@ -2,6 +2,7 @@
 ### 以下内容为本人在网络上搜集而来的，如您是作者并对此感到反感请[QQ联系我](http://wpa.qq.com/msgrd?v=3&uin=917960559&site=qq&menu=yes)进行删除 
 
 * **`开始Android的第一步`** <br>
+    * [Lantern :fire](https://github.com/getlantern/forum)
     * [Android Studio下载安装地址（Windows/Mac）](http://www.android-studio.org/index.php/download/hisversion)<br>
     * [在Mac上搭建开发环境](http://www.jianshu.com/p/bf77cb5ce70b)<br>
     * [各版本Gradle下载地址](http://services.gradle.org/distributions/)-常用于解决AS一直处于Building状态<br>
