@@ -23,6 +23,7 @@
     * [可完全定制化的应用更新框架](https://github.com/yjfnypeu/UpdatePlugin)
     * [好用的自适应流布局，常用于显示自适应个数的标签](https://github.com/hongyangAndroid/FlowLayout)
     * [BRVAH：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+    * [很方便的长图加载控件，加载大图长图so easy！](https://github.com/LuckyJayce/LargeImage)
     
 * **`Android进阶版`** <br>
     * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
