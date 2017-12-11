@@ -28,6 +28,7 @@
 * **`Android进阶版`** <br>
     * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
     * [极简Android源码编译环境搭建工具](https://github.com/tiann/docker-aosp)
+    * [将对象映射到SQLite数据库中的轻量且快速的ORM解决方案：GreenDao](https://github.com/greenrobot/greenDAO) 以及 [GreenDao3.0简单使用讲解](http://www.jianshu.com/p/4986100eff90)
 
 * **`常用的资源`** <br>
     * [利用BaiduExporter](https://github.com/acgotaku/BaiduExporter) ＋ [Aria2](https://github.com/aria2/aria2/releases)绕过百度云盘下载速度的限制
