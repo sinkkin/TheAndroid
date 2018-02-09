@@ -9,7 +9,7 @@
 
 * **`Android基础版`** <br>
     * [超级全的Utils类](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md)<br>
-    * [常用的二维码扫码和生成（基于ZXing核心库）](https://github.com/mylhyl/Android-Zxing)<br>
+    * [常用的二维码扫码和生成（基于ZXing核心库）](https://github.com/yipianfengye/android-zxingLibrary)<br>
     * [仿iOS的PickerView控件，有时间选择器和多级联动选择器](https://github.com/Bigkoo/Android-PickerView)<br>
     * [很好用的Android轮播图控件](https://github.com/youth5201314/banner)<br>
     * [自定义圆形ImageView](https://github.com/hdodenhof/CircleImageView)-常用于圆形头像的显示<br>
