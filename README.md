@@ -12,7 +12,7 @@
     * [常用的二维码扫码和生成（基于ZXing核心库）](https://github.com/yipianfengye/android-zxingLibrary)<br>
     * [仿iOS的PickerView控件，有时间选择器和多级联动选择器](https://github.com/Bigkoo/Android-PickerView)<br>
     * [很好用的Android轮播图控件](https://github.com/youth5201314/banner)<br>
-    * [自定义圆形ImageView](https://github.com/hdodenhof/CircleImageView)-常用于圆形头像的显示<br>[自定义圆形ImageView](https://github.com/vinc3m1/RoundedImageView)
+    * [自定义圆形ImageView](https://github.com/hdodenhof/CircleImageView)-常用于圆形头像的显示<br>[圆角ImageView](https://github.com/vinc3m1/RoundedImageView)
     * [酷炫的下拉刷新上滑加载框架](https://github.com/scwang90/SmartRefreshLayout)-多种自定义头部底部加载动画，真的很酷炫<br>
     * [万能Adapter：数据绑定一步完成](https://github.com/hongyangAndroid/baseAdapter)
     * [Android4.4+实现沉浸式状态栏/导航栏](https://github.com/gyf-dev/ImmersionBar)
