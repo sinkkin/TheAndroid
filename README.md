@@ -31,6 +31,7 @@
     * [快速实现首页下方导航栏的框架](https://github.com/ittianyu/BottomNavigationViewEx/blob/master/README_ZH.md)
     * [RatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
     * [spinner下拉菜单](https://github.com/dongjunkun/DropDownMenu)
+    * [仿微博热门标签（频道管理）](https://github.com/z-chu/LabelSelection)
     
 * **`Android进阶版`** <br>
     * [一个简单的Android组件化demo](https://github.com/yjfnypeu/AndroidComponent)-Emmm真的很简单
