@@ -26,7 +26,7 @@
     * [好用的自适应流布局，常用于显示自适应个数的标签](https://github.com/hongyangAndroid/FlowLayout)
     * [BRVAH：BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
     * [很方便的长图加载控件，加载大图长图so easy！](https://github.com/LuckyJayce/LargeImage)
-    * [图片多选上传，支持自定义](https://github.com/LuckSiege/PictureSelector)
+    * [图片多选上传，支持自定义](https://github.com/LuckSiege/PictureSelector)以及[九宫格图片展示](https://github.com/jeasonlzy/NineGridView)
     * [可以支持未读消息显示的TabLayout，懒人必备](https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md)
     * [快速实现首页下方导航栏的框架](https://github.com/ittianyu/BottomNavigationViewEx/blob/master/README_ZH.md)
     * [RatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
