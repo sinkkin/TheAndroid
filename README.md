@@ -41,4 +41,6 @@
 
 * **`常用的资源`** <br>
     * [利用BaiduExporter](https://github.com/acgotaku/BaiduExporter) ＋ [Aria2](https://github.com/aria2/aria2/releases)绕过百度云盘下载速度的限制
+    * [利用proxyee-down](https://github.com/proxyee-down-org/proxyee-down)绕过百度云盘下载速度的限制
+    
 <pre align="center">早睡早起，健康饮食。有发码农，从我做起！</pre> 
